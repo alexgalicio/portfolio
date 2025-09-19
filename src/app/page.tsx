@@ -17,7 +17,7 @@ export default function Home() {
       </nav>
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         <Image
-          src="/prof.png"
+          src="/profile.png"
           width={100}
           height={100}
           alt="profile"

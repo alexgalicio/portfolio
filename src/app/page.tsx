@@ -21,7 +21,7 @@ export default function Home() {
           width={100}
           height={100}
           alt="profile"
-          className="rounded"
+          className="rounded border border-gray-400"
         />
         <h1 className="text-xl">Hi, I&apos;m Alex.</h1>
       </main>
